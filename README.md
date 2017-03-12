@@ -143,6 +143,6 @@ while 1:
 # Demo
 [![Raspberry Pi NFC tag reader](http://img.youtube.com/vi/IUGeVg7DE9Q/0.jpg)](https://www.youtube.com/watch?v=IUGeVg7DE9Q)
 # References:
-https://github.com/mxgxw/MFRC522-python
-https://www.sunfounder.com/wiki/index.php?title=How_to_Use_an_RFID_RC522_on_Raspberry_Pi
-http://fuenteabierta.teubi.co/2013/07/utilizando-el-lector-nfc-rc522-en-la.html
+* https://github.com/mxgxw/MFRC522-python
+* https://www.sunfounder.com/wiki/index.php?title=How_to_Use_an_RFID_RC522_on_Raspberry_Pi
+* http://fuenteabierta.teubi.co/2013/07/utilizando-el-lector-nfc-rc522-en-la.html
