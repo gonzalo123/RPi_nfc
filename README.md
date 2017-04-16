@@ -11,14 +11,14 @@ The idea that I have got in my mind is use NFC tags to open doors. In this proje
 * 1 Push button
 
 # Wiring:
-RC522 VCC  > RP 3V3
-RC522 RST  > RPGPIO25
-RC522 GND  > RP Ground
-RC522 MISO > RPGPIO9 (MISO)
-RC522 MOSI > RPGPIO10 (MOSO)
-RC522 SCK  > RPGPIO11 (SCLK)
-RC522 NSS  > RPGPIO8 (CE0)
-RC522 IRQ  > RPNone
+* RC522 VCC  > RP 3V3
+* RC522 RST  > RPGPIO25
+* RC522 GND  > RP Ground
+* RC522 MISO > RPGPIO9 (MISO)
+* RC522 MOSI > RPGPIO10 (MOSO)
+* RC522 SCK  > RPGPIO11 (SCLK)
+* RC522 NSS  > RPGPIO8 (CE0)
+* RC522 IRQ  > RPNone
 
 # Software
 I'm going to use two Python Scripts. One to control NFC reader
